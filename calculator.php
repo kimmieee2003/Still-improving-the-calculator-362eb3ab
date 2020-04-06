@@ -59,7 +59,7 @@
         <h2>
             Uw uitkomst: <?php if (isset($result)) {
                             echo $result;
-                            } ?>
+                        } ?>
         </h2>
 </body>
 
